@@ -3,5 +3,4 @@
 
 ###Olá pessoal
 
-Sou estudante de Programção Front-End. Participar deste curso é um autodesafio para adquirir conhecimento
-na área de tecnologia.
+Sou estudante do curso de Programação Front-End na Escola Senai "Conde José Vicente Azevedo" parceria com a Ford Academy. 
